@@ -1,0 +1,13 @@
+# ninja log v6
+1	235	1730394978763078880	CMakeFiles/Ejerciciocaballo.dir/movimientos.cpp.o	2b1f352cfb24cb4e
+0	29	1730395773251140311	build.ninja	1dfc5c5a0fa20e39
+1	253	1730395576052547799	CMakeFiles/Ejerciciocaballo.dir/main.cpp.o	b36dcbe0ef38b288
+1	243	1730395576052817881	CMakeFiles/Ejerciciocaballo.dir/Movimientos.cpp.o	75213cb6c87a11ec
+253	276	1730395576305458504	Ejerciciocaballo	71358549e769b889
+2	243	1730395970131551415	CMakeFiles/Ejerciciocaballo.dir/Movimientos.cpp.o	75213cb6c87a11ec
+2	255	1730395970131316480	CMakeFiles/Ejerciciocaballo.dir/main.cpp.o	b36dcbe0ef38b288
+255	277	1730395970384442131	Ejerciciocaballo	71358549e769b889
+4	244	1730396226161786854	CMakeFiles/Ejerciciocaballo.dir/Movimientos.cpp.o	75213cb6c87a11ec
+244	270	1730396226401908388	Ejerciciocaballo	71358549e769b889
+4	244	1730396329826933197	CMakeFiles/Ejerciciocaballo.dir/Movimientos.cpp.o	75213cb6c87a11ec
+245	269	1730396330067821941	Ejerciciocaballo	71358549e769b889

@@ -1,0 +1,3 @@
+/Users/luciaabad/Documents/GitHub/Ejerciciocaballo/cmake-build-debug/CMakeFiles/Ejerciciocaballo.dir
+/Users/luciaabad/Documents/GitHub/Ejerciciocaballo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/luciaabad/Documents/GitHub/Ejerciciocaballo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
